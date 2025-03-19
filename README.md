@@ -13,9 +13,11 @@ Run on terminal -> choose powershell.
 
    python -m venn .venv
 
+   (remember click add path "Yes" on the right corner of VSCode)
+
    pip install ultralytics
 
-2. Run the .venv folder (on terminal) & select the interpreter
+3. Run the .venv folder (on terminal) & select the interpreter
   
    .venv/Scripts/Activate  (then it must show the - greenstatus (venv))
 
